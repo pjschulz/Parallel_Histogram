@@ -3,6 +3,7 @@
 -Solves Problem 1 - Parallel Histogram
 -No known issues:
 -Tested on Windows 10, project name was "Histogram"
+-You can manually update dataCount, binCount, and threadCount variables
 -Should return something similar to:
 
 C:\Users\...\CLionProjects\Histogram\cmake-build-debug\Histogram.exe
